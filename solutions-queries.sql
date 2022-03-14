@@ -75,6 +75,6 @@ FROM orders
 WHERE comments LIKE '%caution%';
 
 /* 15) What is the average credit limit of our customers from the USA? (rounded) Result =  */
-
+SELECT 
 
 
